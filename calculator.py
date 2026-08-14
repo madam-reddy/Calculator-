@@ -1,4 +1,4 @@
-a = 10
+a = 30
 b = 5
 
 print("Addition:", a + b)
